@@ -1,0 +1,26 @@
+body {
+    background-color: plum;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.fartt {
+    padding: 5px;
+    font-size: large;
+}
+
+.inputt, .btn {
+    padding: 5px;
+    width: 100px;
+    background-color: plum;
+    border-radius: 3px;
+    margin: 5px;
+}
